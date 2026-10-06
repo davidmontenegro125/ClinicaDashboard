@@ -1,0 +1,7 @@
+servlets\recibePaciente.class
+servlets\inicioServlet.class
+umariana\proyectoclinica\resources\JavaEE8Resource.class
+umariana\proyectoclinica\GestionarPaciente.class
+servlets\listarPacientes.class
+umariana\proyectoclinica\JAXRSConfiguration.class
+umariana\proyectoclinica\Paciente.class
